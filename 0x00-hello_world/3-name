@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
 gcc $CFILE -o cisfun
-=======
-#!/bin/bash
-gcc $CFILE -o cisfun
->>>>>>> 2180aa99984ef6226240e45d9cfc8455dd4cb234
